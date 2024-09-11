@@ -1,4 +1,4 @@
-<a href="https://www.curseforge.com/minecraft/modpacks/create-beyond-earth-3" rel="nofollow"><img src="https://i.ibb.co/J599Zmd/britakeestudios.png">
+<p align="center"> <a href="https://www.curseforge.com/minecraft/modpacks/create-beyond-earth-3" rel="nofollow"><img src="https://i.ibb.co/J599Zmd/britakeestudios.png">
 <br/>
 <p align="center">450+ Mods | 10 Create Chapters | Epic Battles | 8-10GB Recommended
 <br/>
