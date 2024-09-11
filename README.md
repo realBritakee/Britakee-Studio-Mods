@@ -22,4 +22,4 @@
 
 <p align="center"><strong>TO-DO LIST</strong></p>
 <br/>
-<p>Full To-do list for the Britakee Studio Mods&nbsp;<a href="https://trello.com/b/B34llSgW/britakee-studio-mods" rel="nofollow">here</a></p>
+<p>Full To-do list for the Britakee Studio Mods can be seen&nbsp;<a href="https://trello.com/b/B34llSgW/britakee-studio-mods" rel="nofollow">here</a></p>
